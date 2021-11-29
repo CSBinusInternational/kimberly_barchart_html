@@ -4,7 +4,7 @@ Kimberly Mazel 2502022250 <br>
 Class: L1BC <br>
 Human-Computer Interaction - Bar Chart <br>
 
-Live Link: 
+Live Link: https://kimberlymazel.github.io/kimberly_barchart_html/
 
 TitanicData.xlsx - Excel workbook with sheets filled with categorized data (using countif functions)<br>
 index.html - main page <br>
