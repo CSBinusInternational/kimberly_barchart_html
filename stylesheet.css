@@ -56,18 +56,6 @@ h3 {
     font-weight:bold;
 }
 
-/* for vertical graphs */
-.chart-titanic.vertical .gridding { 
-    transform: translateY(-175px) translateX(175px) rotate(-90deg);
-}
-.chart-titanic.vertical .gridding .bar::after {
-    transform: translateY(-50%) rotate(45deg);
-    display: block;
-}
-.chart-titanic.vertical .gridding::before, .chart-wrap.vertical .grid::after {
-    transform: translateX(-0.2em) rotate(90deg);
-}
-
  /* css for grid behind bars */
 .chart-titanic .gridding {
     position: relative;
